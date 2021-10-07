@@ -21,13 +21,11 @@
 title: Federico Dassereto
 email: federico.dassereto@edu.unige.it
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  The the other joke important joke for me is one that's usually attributed to Groucho Marx, but I think it appears originally in Freud's Wit and Its Relation to the Unconscious. And it goes like this, I'm paraphrasing: Um, I would never wanna belong to any club that would have someone like me for a member
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: false
+github_username:  federicodassereto
 
 # Build settings
 theme: minima
